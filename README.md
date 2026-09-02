@@ -1,3 +1,8 @@
+<!--- banner --->
+<img src="./banner/Initial_Banner.png" alt="encodeshohan">
+
+<br/>
+
 <h1 align="center">Hi 👋, I'm MD. SHOHANUR RAHMAN SHOHAN</h1>
 <h3 align="center">A passionate learner exploring Data Science, Data Mining, Machine Learning, and Web Development.</h3>
 
